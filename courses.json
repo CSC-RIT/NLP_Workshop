@@ -1,0 +1,353 @@
+[
+    {
+        "course_code": "CSCI-99",
+        "title": "Undergraduate Cooperative Education Seminar",
+        "credits": "0 Credits",
+        "description": "This seminar helps students prepare for Computer Science co-operative education employment (“co-op”) by developing job search strategies and materials, and reviewing relevant policies. Students are introduced to RIT’s Office of Career Services and Cooperative Education, and learn about professional, legal, and ethical responsibilities for their co-op and subsequent professional experiences. Completion of this seminar and the related assignments are required before a CS student can be registered for co-op. The seminar will also review various curricular options and program requirements for CS undergraduate students.",
+        "prerequisites": "This class is restricted to COMPSCI-BS or COMPEX-UND Major students with at least 2nd year standing.",
+        "contact_hours": "Lecture 1",
+        "typically_offered": "Fall, Spring"
+    },
+    {
+        "course_code": "CSCI-140",
+        "title": "Computer Science for AP Students",
+        "credits": "4 Credits",
+        "description": "This accelerated course covers material from the first-year sequence of courses and provides the foundation for all subsequent Computer Science courses. The course stresses problem solving while covering modern software development techniques and introducing essential software tools. Topics include tree and graph structures, nested data structures, objects, classes, inheritance, interfaces, object-oriented collection class libraries for abstract data types (e.g. stacks, queues, maps, and trees), and static vs. dynamic data types. Concepts of object-oriented design are a large part of the course. Software qualities related to object orientation, namely cohesion, minimal coupling, modifiability, and extensibility, are all introduced in this course, as well as a few elementary object-oriented design patterns. Input and output streams, graphical user interfaces, and exception handling are covered. Note: Requires department permission for registration.",
+        "prerequisites": "Requires department permission for registration.",
+        "contact_hours": "Lecture/Lab 6",
+        "typically_offered": "Fall"
+    },
+    {
+        "course_code": "CSCI-141",
+        "title": "Computer Science I",
+        "credits": "4 Credits",
+        "description": "This course serves as an introduction to computational thinking using a problem-centered approach. Specific topics covered include: expression of algorithms in pseudo code and a programming language; functional and imperative programming techniques; control structures; problem solving using recursion; basic searching and sorting; elementary data structures such as lists, trees, and graphs; and correctness, testing and debugging. Assignments (both in class and for homework) requiring a pseudo code solution and an implementation are an integral part of the course. An end-of-term project is also required.",
+        "prerequisites": "None listed",
+        "contact_hours": "Lecture/Lab 6",
+        "typically_offered": "Fall, Spring"
+    },
+    {
+        "course_code": "CSCI-142",
+        "title": "Computer Science II",
+        "credits": "4 Credits",
+        "description": "This course delves further into problem solving by continuing the discussion of data structure use and design, but now from an object-oriented perspective. Key topics include more information on tree and graph structures, nested data structures, objects, classes, inheritance, interfaces, object-oriented collection class libraries for abstract data types (e.g. stacks, queues, maps, and trees), and static vs. dynamic data types. Concepts of object-oriented design are a large part of the course. Software qualities related to object orientation, namely cohesion, minimal coupling, modifiability, and extensibility, are all introduced in this course, as well as a few elementary object-oriented design patterns. Input and output streams, graphical user interfaces, and exception handling are covered. Students will also be introduced to a modern integrated software development environment (IDE). Programming projects will be required.",
+        "prerequisites": "CSCI-141 with a grade of C- or better or equivalent course.",
+        "contact_hours": "Lecture/Lab 6",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-231",
+        "title": "Concepts of AI: A Problem-based Approach",
+        "credits": "3 Credits",
+        "description": "An introduction to artificial intelligence (AI) that enables students to integrate modern AI models in applications such as large language model agents, autonomous vehicles, and robot vision. Following a modern problem-based coverage of concepts on the creation and use of artificial intelligence (AI) systems, topics include a historical context of Artificial Intelligence and Machine Learning in the field of computer science, machine learning methods, model training and inference, search algorithms, logic, planning, AI applications, and ethical and legal considerations in AI. Programming assignments and project presentations are an integral part of the course. Students in the COMPSCI-BS or AI-BS majors may not take this course towards degree requirements.",
+        "prerequisites": "C- or better in CSCI-140 or CSCI-142 or CSCI-242 or GCIS-124 or GCIS-127 or IGME-102 or IGME-106 or equivalent course. Students in AI-BS or COMPSCI-BS or GAMEDES-BS programs may not enroll in this course.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring"
+    },
+    {
+        "course_code": "CSCI-242",
+        "title": "Computer Science for Transfer Students",
+        "credits": "4 Credits",
+        "description": "This course serves as a means of bringing transfer students with some programming and data structures background to the same skill level that the computer science program's first year students have after completing CSCI 141 and 142. Problem solving skills and the choice and application of appropriate algorithms and data structures are at the core of the course. Assignments (both in class and for homework) requiring a design and an implementation are an integral part of the course. Larger programming projects are also required.",
+        "prerequisites": "None listed",
+        "contact_hours": "Lecture/Lab 6",
+        "typically_offered": "Fall, Spring"
+    },
+    {
+        "course_code": "CSCI-243",
+        "title": "The Mechanics of Programming",
+        "credits": "3 Credits",
+        "description": "Students will be introduced to the details of program structure and the mechanics of execution as well as supportive operating system features. Security and performance issues in program design will be discussed. The program translation process will be examined. Programming assignments will be required.",
+        "prerequisites": "C- or better in CSCI-140 or CSCI-142 or CSCI-242 or SWEN-124 or CSEC-124 or GCIS-124 or GCIS-127 or equivalent course.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-250",
+        "title": "Concepts of Computer Systems",
+        "credits": "3 Credits",
+        "description": "An introduction to the hardware and software organization of computer systems. The course emphasizes a multilevel model of computer organization. Topics include the digital logic level; the micro architecture level; the machine instruction set level; the operating system level; and the assembly language level. Programming assignments will be required.",
+        "prerequisites": "(CSCI-243 or 4003-334) and (MATH-190 or MATH-200 or 1016-366) or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-251",
+        "title": "Concepts of Parallel and Distributed Systems",
+        "credits": "3 Credits",
+        "description": "This course is an introduction to the organization and programming of systems comprising multiple computers. Topics include the organization of multi-core computers, parallel computer clusters, computing grids, client-server systems, and peer-to-peer systems; computer networks and network protocols; network security; multi-threaded programming; and network programming. Programming projects will be required.",
+        "prerequisites": "CSCI-243 or SWEN-262 or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring"
+    },
+    {
+        "course_code": "CSCI-261",
+        "title": "Analysis of Algorithms",
+        "credits": "3 Credits",
+        "description": "This course provides an introduction to the design and analysis of algorithms. It covers a variety of classical algorithms and data structures and their complexity and will equip students with the intellectual tools to design, analyze, implement, and evaluate their own algorithms.",
+        "prerequisites": "(CSCI-243 and (CSCI-262 or CSCI-263)) or (SWEN-262 and MATH-241) or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-262",
+        "title": "Introduction to Computer Science Theory",
+        "credits": "3 Credits",
+        "description": "This course provides an introduction to the theory of computation, including formal languages, grammars, auto-mata theory, computability, and complexity.",
+        "prerequisites": "(MATH-190 or MATH-200) and (CSCI-140 or CSCI-141 or CSCI-242 or SWEN-123 or SWEN-124 or CSECI-123 or CSEC-124 or GCIS-123 or GCIS-124 or GCIS-127) or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-263",
+        "title": "Honors Introduction to Computer Science Theory",
+        "credits": "3 Credits",
+        "description": "This course provides a challenging introduction to the theory of computation with an emphasis on problem solving. Topics include formal languages, grammars, auto-mata theory, computability, and complexity.",
+        "prerequisites": "(MATH-190 or MATH-200) and (CSCI-140 or CSCI-141 or CSCI-242 or SWEN-123 or SWEN-124 or CSECI-123 or CSEC-124 or GCIS-123 or GCIS-124 or GCIS-127) or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Spring"
+    },
+    {
+        "course_code": "CSCI-264",
+        "title": "Honors Analysis of Algorithms",
+        "credits": "3 Credits",
+        "description": "This course provides a challenging introduction to the design and analysis of algorithms with an emphasis on problem solving and algorithmic research. It covers a variety of classical algorithms and data structures and their complexity, as well as deeper coverage of more advanced material; for example, linear programming, approximation algorithms, and randomized algorithms. The course will equip students with the intellectual tools to design, analyze, implement, and evaluate their own algorithms.",
+        "prerequisites": "(CSCI-243 and (CSCI-262 or CSCI-263)) or (SWEN-262 and MATH-241 or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall"
+    },
+    {
+        "course_code": "CSCI-320",
+        "title": "Principles of Data Management",
+        "credits": "3 Credits",
+        "description": "This course provides a broad introduction to the principles and practice of modern data management, with an emphasis on the relational database model. Topics in relational database systems include data modeling; the relational model; relational algebra; Structured Query Language (SQL); and data quality, transactions, integrity and security. Students will also learn approaches to building relational database application programs. Additional topics include object-oriented and object-relational databases; semi-structured databases (such as XML); and information retrieval. A database project is required.",
+        "prerequisites": "(MATH-190 or MATH-200) and (CSCI-140 or CSCI-142 or CSCI-242 or SWEN-124 or CSEC-124 or GCIS-124 or GCIS-127) or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-331",
+        "title": "Introduction to Artificial Intelligence",
+        "credits": "3 Credits",
+        "description": "An introduction to the theories and algorithms used to create artificial intelligence (AI) systems. Topics include search algorithms, logic, planning, machine learning, and applications from areas such as computer vision, robotics, and natural language processing. Programming assignments are an integral part of the course.",
+        "prerequisites": "(CSCI-243 or SWEN-262 or IDAI-202) and (MATH-251 or STAT-205) or equivalent courses. Students cannot take and receive credit for this course if they have taken CSCI-630.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-335",
+        "title": "Machine Learning",
+        "credits": "3 Credits",
+        "description": "An introduction to both foundational and modern machine learning theories and algorithms, and their application in classification and regression. Topics include: Mathematical background of machine learning (e.g. statistical analysis and visualization of data), Bayesian decision theory, parametric and non-parameteric classification models (e.g., SVMs and Nearest Neighbor models) and neural network models (e.g. Convolutional, Recurrent, and Deep Neural Networks).  Programming assignments are required.",
+        "prerequisites": "(CSCI-243 or SWEN-262 or IDAI-202) and (MATH-251 or STAT-205) or equivalent courses. Students may not take and receive credit for CSCI-335 and CSCI-635.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring"
+    },
+    {
+        "course_code": "CSCI-344",
+        "title": "Programming Language Concepts",
+        "credits": "3 Credits",
+        "description": "This course is a study of the syntax and semantics of a diverse set of high-level programming languages. The languages chosen are compared and contrasted in order to demonstrate general principles of programming language design and implementation. The course emphasizes the concepts underpinning modern languages rather than the mastery of particular language details. Programming projects will be required.",
+        "prerequisites": "CSCI-243 or SWEN-250 or IGME-309 or 4003-334 or 4010-361 or 4080-487) and (MATH-190 or MATH-200) or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-351",
+        "title": "Data Communications and Networks",
+        "credits": "3 Credits",
+        "description": "This course is an in-depth study of data communications and networks. The course covers design of, and algorithms and protocols used in, the physical, data link, network, transport, and application layers in the Internet; methods for modeling and analyzing networks, including graphs, graph algorithms, and discrete event simulation; and an introduction to network science. Programming projects will be required.",
+        "prerequisites": "Pre-requisites: CSCI-251 and (MATH-251 or STAT-251 or STAT-205) or equivalent courses. Students cannot take and receive credit for this course if they have taken CSCI-651.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall"
+    },
+    {
+        "course_code": "CSCI-352",
+        "title": "Operating Systems",
+        "credits": "3 Credits",
+        "description": "An in-depth study of operating system concepts. Topics include process synchronization, interprocess communication, deadlock, multiprogramming and multiprocessing, processor scheduling and resource management, memory management, static and dynamic relocation, virtual memory, file systems, logical and physical I/O, device allocation, I/O processor scheduling, process and resource protection. Programming projects involving the development of or modification to operating system kernel features will be required.",
+        "prerequisites": "CSCI-250 or CMPE-350 or SWEN-340 or equivalent course.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall"
+    },
+    {
+        "course_code": "CSCI-399",
+        "title": "CS Undergraduate Part-time Co-op",
+        "credits": "0 Credits",
+        "description": "Cooperative education is a work experience designed to supplement the educational process. Students may select from a range of activities designated as cooperative education as described by their program of study. Activities are done on a part-time basis.",
+        "prerequisites": "CSCI-099 or equivalent course.",
+        "contact_hours": "Not specified",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-420",
+        "title": "Principles of Data Mining",
+        "credits": "3 Credits",
+        "description": "Real-world datasets are often large and can be stored in either main memory or a database.  In this course, students will learn the basic principles and algorithms of data mining.  Topics include knowledge discovery process; data exploration and cleaning; and data mining algorithms.  The emphasis is on how to use data mining to describe datasets rather than making predictions.  Data mining projects and a term paper are required.",
+        "prerequisites": "CSCI-320 and (STAT-145 or MATH-251 or STAT-251 or STAT-205) or equivalent courses.  Students may not take this course if they have received credit for CSCI-420H or CSCI-620.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-420H",
+        "title": "Honors Principles of Data Mining",
+        "credits": "3 Credits",
+        "description": "Real-world datasets are often large and do not fit in main memory, requiring the use of databases. In this honors course, students will go beyond the basic principles and algorithms of data mining, which often assume datasets fit in main memory. Students will engage in creative technical problem solving by adapting these basic principles and algorithms to mine real-world datasets that are stored in different types of databases (relational, document-oriented, graph-oriented). Students will also investigate and reflect on the legal and ethical issues that arise when mining (large) datasets. Topics include the knowledge discovery process; data exploration and cleaning; and data mining algorithms. The emphasis is on how to use data mining to describe datasets rather than making predictions. A term project (presentation and paper) analyzing legal and ethical issues underlying data preparation and mining over large databases is required.",
+        "prerequisites": "CSCI-320 and (STAT-145 or MATH-251 or STAT-251 or STAT-205) or equivalent courses.  Students may not take this course if they have received credit for CSCI-420 or CSCI-620.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Spring"
+    },
+    {
+        "course_code": "CSCI-421",
+        "title": "Principles of Database System Implementation",
+        "credits": "3 Credits",
+        "description": "This course provides a broad introduction to database management systems including data modeling, the relational model, and SQL. Database system implementation issues are covered next, where the focus is on data structures and algorithms used to implement database management systems. Topics include physical data organization, indexing and hashing, query processing and optimization, database recovery techniques, transaction management, concurrency control, and database performance evaluation. A programming project will be required.",
+        "prerequisites": "CSCI-320. Students may not take and receive credit for CSCI-421 and CSCI-621.  If you have earned credit for CSCI-621 or you are currently enrolled in CSCI-621 you will not be permitted to enroll in CSCI-421.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-431",
+        "title": "Introduction to Computer Vision",
+        "credits": "3 Credits",
+        "description": "An introduction to the underlying concepts of computer vision. The course will consider fundamental topics, including image formation, edge detection, texture analysis, color, segmentation, shape analysis, detection of objects in images and high level image representation. Depending on the interest of the class, more advanced topics will be covered, such as image database retrieval or robotic vision. Programming homework assignments that implement the concepts discussed in class are an integral part of the course.",
+        "prerequisites": "(CSCI-243 or SWEN-262 or IDAI-202) and MATH-241 or equivalent courses. Students cannot take and receive credit for this course if they have taken CSCI-431 and CSCI-631.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring"
+    },
+    {
+        "course_code": "CSCI-452",
+        "title": "Systems Programming",
+        "credits": "3 Credits",
+        "description": "Application of operating system concepts to the design of hardware interfaces for a multiprogramming environment. Laboratory work includes the development of a multiprogramming (optionally, multiprocessing) kernel with system call and interrupt handling facilities, and the building of device drivers for a variety of peripheral devices. This course provides extensive experience with those aspects of systems programming that deal directly with the hardware interface. A significant team programming project is a major component of this course.",
+        "prerequisites": "CSCI-352 or (4003-334 and 4003-345) or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Spring"
+    },
+    {
+        "course_code": "CSCI-453",
+        "title": "Computer Architecture",
+        "credits": "3 Credits",
+        "description": "Computer Architecture is a study of the design of both modern and classic computer hardware. Topics include: a review of classical computer architectures; the design of operation codes and addressing modes, data formats, and their implementation; internal and external bus structures; architectural features to support virtual storage and page-replacement policies, high-level language features, and operating systems. Students will write programs which simulate the organization of several different processor architectures to help further their understanding of design choices.",
+        "prerequisites": "CSCI-250 or equivalent course.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Spring"
+    },
+    {
+        "course_code": "CSCI-455",
+        "title": "Principles of Cybersecurity",
+        "credits": "3 Credits",
+        "description": "This course provides a broad introduction to cybersecurity principles and practices, and emphasizes policies and mechanisms for building secure and trusted computer systems. It will cover cybersecurity principles, policies and mechanisms; core knowledge areas of data, software, component, connection, system, human, organizational and societal security; and crosscutting concepts of confidentiality, integrity, availability, risk, adversarial thinking, and systems thinking. Topics in privacy, and legal and ethical aspects will also be emphasized. Presentations, reports and projects are required. Students cannot take and receive credit for this course if they have credit for CSCI-655. This course requires the knowledge of computer science theory and concepts of computer systems.",
+        "prerequisites": "CSCI-250 and (CSCI-262 or CSCI-263) or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Spring"
+    },
+    {
+        "course_code": "CSCI-462",
+        "title": "Introduction to Cryptography",
+        "credits": "3 Credits",
+        "description": "This course provides an introduction to cryptography, its mathematical foundations, and its relation to security. It covers classical cryptosystems, private-key cryptosystems (including DES and AES), hashing and public-key cryptosystems (including RSA). The course also provides an introduction to data integrity and authentication.  Students cannot take and receive credit for this course if they have credit for CSCI-662.",
+        "prerequisites": "(CSCI-243 or SWEN-262 or CSEC-202) and (MATH-190 or MATH-200) or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-464",
+        "title": "Xtreme Theory",
+        "credits": "3 Credits",
+        "description": "A fast paced, informal look at current trends in the theory of computing. Each week is dedicated to a different topic and will explore some of the underlying theory as well as the practical applications of the theory. Sample topics may include: quantum cryptography, networks and complex systems, social welfare and game theory, zero knowledge protocols. Students will be evaluated on homework assignments and a final presentation. Offered every other year.",
+        "prerequisites": "(MATH-190 or MATH-200) and (CSCI-140 or CSCI-142 or CSCI-242 or SWEN-124 or CSEC-124 or GCIS-124 or GCIS-127) or equivalent courses.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall"
+    },
+    {
+        "course_code": "CSCI-471",
+        "title": "Professional Communications",
+        "credits": "3 Credits",
+        "description": "This course focuses on developing and improving verbal and written communication skills specific to the discipline of computer science. Topics include the different forms of writing in computer science (books, theses, journal articles, technical reports, manuscripts, etc.), writing styles of computer scientists, document readability and usability, documents for career readiness, effective presentations, teamwork and peer review, research methods, experimentation, documenting mathematics and algorithms, proper formatting of graphs, figures, and tables, and ethical, social, and professional issues facing Computer Scientists.  This course is approved as Writing Intensive.  Students cannot take and receive credit for this course if they have credit for CSCI-472. This class is restricted to students with at least 4th year standing COMPSCI-BS or COMPSCI-2M",
+        "prerequisites": "Restricted to students with at least 4th year standing COMPSCI-BS or COMPSCI-2M",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-472",
+        "title": "Historical & Current Perspectives in Computer Science",
+        "credits": "3 Credits",
+        "description": "Students who have a background in Computer Science theories, algorithms, and data structures will be provided a look at the history of Computer Science from historical and current perspectives.  Topics include an early history of Computer Science, a study of the people who shaped Computer Science, and a discussion of major milestones in Computer Science.  Additionally, students will study current issues in Computer Science, including legal, ethical, diversity, equity, inclusion, accessibility and privacy issues, and how past issues affect modern designs and decision making by computer scientists. Students will be required to work in teams on several assignments. Papers, presentations, and oral presentations are required.  Students cannot take and receive credit for this course if they have credit for CSCI-471.",
+        "prerequisites": "This class is restricted to students with at least 4th year standing.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall or Spring or Summer"
+    },
+    {
+        "course_code": "CSCI-510",
+        "title": "Introduction to Computer Graphics",
+        "credits": "3 Credits",
+        "description": "Introduction to Computer Graphics is a study of the hardware and software principles of interactive raster graphics. Topics include an introduction to the basic concepts, 2-D and 3-D modeling and transformations, viewing transformations, projections, rendering techniques, graphical software packages and graphics systems. The course will focus on rasterization techniques and emphasize the hardware rasterization pipeline including the use of hardware shaders. Students will use a standard computer graphics API to reinforce concepts and study fundamental computer graphics algorithms. Programming projects will be required.",
+        "prerequisites": "(MATH-241 or MATH-241H or MATH-185) and (CSCI-243 or SWEN-262 or IDAI-202 or IGME-209 or ISTE-340) or equivalent courses. Students cannot take and receive credit for this course if they have taken CSCI-610.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring"
+    },
+    {
+        "course_code": "CSCI-511",
+        "title": "Interactive Music Experiences",
+        "credits": "3 Credits",
+        "description": "This interdisciplinary course is designed for College of Art and Design and Golisano College of Computing and Information Sciences students to work in collaboration creating a semester long interactive music project.  Students will work with musicians in the Rochester area in teams consisting of programmers, designers, CG artists, photographers, and filmmakers to examine how digital technology is changing the way we experience and consume music. Students will also be introduced to the resources and tools necessary to produce an interactive music experience while working with professional musicians. The students will build upon the foundations of computer graphics and be exposed to the latest technologies involving computer graphics, animation, sound, video, interactive techniques, and virtual / augmented worlds. Students with experience equivalent to the prerequisites are encouraged to contact the instructor.",
+        "prerequisites": "CSCI-510 or CSCI-610 or IGME-540 or equivalent course.",
+        "contact_hours": "Lecture/Lab 5",
+        "typically_offered": "Spring"
+    },
+    {
+        "course_code": "CSCI-521",
+        "title": "Principles of Data Cleaning and Preparation",
+        "credits": "3 Credits",
+        "description": "This course provides an introduction to the concepts and techniques used in preparing data for subsequent data mining. Topics include the knowledge discovery process; data exploration and its role; data extraction, cleaning, integration and transformation; handling numeric, unstructured, text, web, and other forms of data; and ethical issues underlying data preparation and mining. Data cleaning projects and a paper are required.",
+        "prerequisites": "CSCI-320. Students may not take and receive credit for CSCI-521 and CSCI-721.  If you have earned credit for CSCI-721 or you are currently enrolled in CSCI-721 you will not be permitted to enroll in CSCI-521.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring, Summer"
+    },
+    {
+        "course_code": "CSCI-532",
+        "title": "Introduction to Intelligent Security Systems",
+        "credits": "3 Credits",
+        "description": "The course will introduce students to the application of intelligent methodologies in computer security and information assurance systems design. It will review different application areas such as intrusion detection and monitoring systems, access control and biological authentication, firewall structure and design. The students will be required to implement a course project on design of a particular security tool with an application of an artificial intelligence methodology and to undertake its performance analysis.  Students cannot take and receive credit for this course if they have credit for CSCI-735.",
+        "prerequisites": "CSCI-331 or CSCI-351 or equivalent course.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Spring"
+    },
+    {
+        "course_code": "CSCI-534",
+        "title": "Mobile Robot Programming",
+        "credits": "3 Credits",
+        "description": "This course covers standard and novel techniques for mobile robot programming, including software architectures, reactive motion control, map building, localization and path planning.  Other topics include the ethical implications of human-robot interaction, multiple robot systems, and non-traditional and dynamic robots.  Students will implement various algorithms in simulation as well as on a real robot.",
+        "prerequisites": "CSCI-331 or equivalent course.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Biennially"
+    },
+    {
+        "course_code": "CSCI-536",
+        "title": "Information Retrieval",
+        "credits": "3 Credits",
+        "description": "An introduction to the theories and techniques used to construct search engines. Topics include search interfaces, traditional retrieval models (e.g., TF-IDF, BM25), modern retrieval techniques (e.g., neural reranking and retrieval), search engine evaluation, and search applications (e.g., conversational IR, enterprise search).  Students will also review current IR research topics, and complete a group project in which they will design and execute experiments for search engine components.",
+        "prerequisites": "CSCI-331 or equivalent course. Students may not take and receive credit for CSCI-536 and CSCI-636.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Spring"
+    },
+    {
+        "course_code": "CSCI-538",
+        "title": "Puzzles for Computing",
+        "credits": "3 Credits",
+        "description": "In this course, students will explore puzzle solving and creation as a way of exploring human-inspired algorithm development and the synergy of humans and computers to develop programmatic solutions. Many different types of puzzles will be explored, including logical puzzles, mazes, optimization puzzles, and word puzzles. For each type of puzzle, students will develop and implement both optimal solving algorithms and algorithms that mimic human solving processes. They will also write programs that construct certain types of puzzles with human solvers in mind. Finally, they will discuss and solve puzzle hunts, which include puzzles without any instruction and apparent ambiguity, yet are still uniquely solvable for humans.",
+        "prerequisites": "CSCI-261 or CSCI-264 or IGME-309 or equivalent course.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Spring"
+    },
+    {
+        "course_code": "CSCI-541",
+        "title": "Programming Skills",
+        "credits": "3 Credits",
+        "description": "The goal of this course is to introduce the students to a programming paradigm and an appropriate programming language chosen from those that are currently important or that show high promise of becoming important. A significant portion of the learning curve occurs through programming assignments with exemplary solutions discussed later in class. The instructor will post specifics prior to registration. With the approval of the program coordinator, the course can be taken for credit more than once, provided each instance deals with a different paradigm and language.",
+        "prerequisites": "CSCI-344 or equivalent course.",
+        "contact_hours": "Lecture 3",
+        "typically_offered": "Fall, Spring"
+    }
+]
